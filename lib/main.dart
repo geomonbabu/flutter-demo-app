@@ -177,7 +177,7 @@ class MyApp extends StatelessWidget {
 // body:Stack(alignment: Alignment.center,children: [Container(width: 200,height: 200,padding: EdgeInsets.only(left: 20),margin: EdgeInsets.only(top: 60,left: 60),
 // decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Color.fromARGB(255, 14, 37, 105)),
 // child: Text("hello",style: TextStyle(color: Color.fromARGB(255, 123, 237, 17))),)]
-//---------set iocns------
+//---------set iocns here------
 body: Container(child: Icon(Icons.home,size: 70,color: Colors.yellow,),),
 
   ),);}
